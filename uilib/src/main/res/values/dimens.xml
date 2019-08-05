@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="uilib_app_text_size_big">24dp</dimen>
+    <!-- 最小的字号 -->
+    <dimen name="uilib_app_text_size_small">12dp</dimen>
+    <!-- 第一级，适用于标题栏的标题 -->
+    <dimen name="uilib_app_text_size_first_level">18dp</dimen>
+    <!-- 第二级，用于正文，用的最多 -->
+    <dimen name="uilib_app_text_size_second_level">16dp</dimen>
+    <!-- 第三级，适用于副标题，小文字-->
+    <dimen name="uilib_app_text_size_third_level">14dp</dimen>
+    
+    <dimen name="uilib_action_sheet_item_height">52dp</dimen>
+    <dimen name="uilib_action_sheet_item_sep_line">0.8dp</dimen>
+</resources>

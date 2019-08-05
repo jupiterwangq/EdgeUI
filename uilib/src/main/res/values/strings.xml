@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">uilib</string>
+    <string name="uilib_action_sheet_cancel">取消</string>
+</resources>

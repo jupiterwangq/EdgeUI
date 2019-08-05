@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="uilib_title_bar_text_color">#1a173b</color>
+    <color name="uilib_default_immersive_color">#f8f8f8</color>
+
+    <color name="uilib_commercial_blue">#334982</color>
+
+    <color name="uilib_light_gray_line">#d8d8d8</color>
+
+    <color name="uilib_blue_text">#0078FF</color>
+</resources>
